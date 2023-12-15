@@ -2,6 +2,11 @@ package org.generation;
 
 import java.util.Scanner; // importar la clase Scanner
 
+/**
+ * Programa que simula el juego de piedra papel o tijera entre dos jugadores
+ * y arroja un ganador dependiendo de las entradas de ambos jugadores
+ */
+
 public class Codigo4 {
     public static void main(String[] args) {
         //s -> sc
